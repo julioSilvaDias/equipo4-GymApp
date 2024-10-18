@@ -3,6 +3,8 @@ package gymApp.bbdd.pojos;
 import java.util.Objects;
 
 public class Workout {
+	
+	int id;
 	String video;
 	int exercises;
 	String name;
